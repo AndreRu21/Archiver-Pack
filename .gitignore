@@ -11,14 +11,14 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
+¹[Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
+¹[Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 bld/
-[Bb]in/
+¹[Bb]in/
 [Oo]bj/
 [Ll]og/
 
